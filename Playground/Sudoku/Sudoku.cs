@@ -152,6 +152,7 @@ namespace Playground.Sudoku
                     if (SolveSudoku())
                     {
                         return true;
+
                     }
 
                     //if we reach here, then we did not solve it 
