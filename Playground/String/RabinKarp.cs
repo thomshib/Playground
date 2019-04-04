@@ -10,7 +10,7 @@ namespace Playground.String
         private int prime = 101;
 
         public int PatternSearch(string text,string pattern)
-        {
+            {
             int m = pattern.Length;
             int n = text.Length;
 
